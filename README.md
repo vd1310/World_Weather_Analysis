@@ -1,5 +1,4 @@
 # World_Weather_Analysis
-# PyBer_Analysis
 ## Overview of Project
 The purpose of this project is to analyze the city and ride data for 'Pyber' and create necessary dataframes and charts to help decision makers to understand data differences between various cities
 ### Purpose
