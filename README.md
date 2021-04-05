@@ -13,7 +13,7 @@ Modify PlanMyTrip app to add the weather description, use input statements to fi
 ###### Deliverable 2: Create a Customer Travel Destinations Map
 ![alt text](https://github.com/vd1310/World_Weather_Analysis/blob/main/All_images/D2/WeatherPy_vacation_map.png)
 
-###### Create a Travel Itinerary Map
+###### Deliverable 3: Create a Travel Itinerary Map
 ![alt text](https://github.com/vd1310/World_Weather_Analysis/blob/main/All_images/D3/WeatherPy_travel_map.png)
 
 ![alt text](https://github.com/vd1310/World_Weather_Analysis/blob/main/All_images/D3/WeatherPy_travel_map_markers.png)
