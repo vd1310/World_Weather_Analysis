@@ -18,6 +18,3 @@ Modify PlanMyTrip app to add the weather description, use input statements to fi
 
 ![alt text](https://github.com/vd1310/World_Weather_Analysis/blob/main/All_images/D3/WeatherPy_travel_map_markers.png)
 
-
-
-
